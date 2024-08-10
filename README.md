@@ -1,4 +1,4 @@
-# Q and A Generation Using Llama Index
+# Q and A Generation Using Llama Index on Mac
 
 ## Table of Contents
 1. [Directory Structure](#directory-structure)
